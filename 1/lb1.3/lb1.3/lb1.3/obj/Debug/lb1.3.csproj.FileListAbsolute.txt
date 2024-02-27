@@ -1,0 +1,7 @@
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\bin\Debug\lb1.3.exe.config
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\bin\Debug\lb1.3.exe
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\bin\Debug\lb1.3.pdb
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\obj\Debug\lb1.3.csproj.AssemblyReference.cache
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\obj\Debug\lb1.3.csproj.CoreCompileInputs.cache
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\obj\Debug\lb1.3.exe
+D:\study\university2\oop2\1\lb1.3\lb1.3\lb1.3\obj\Debug\lb1.3.pdb
